@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=david-franca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+[![roadmap.sh](https://roadmap.sh/card/tall/684f408f368c556c65ee4ec4?variant=dark&roadmaps=full-stack%2Creact%2Cnodejs%2Ctypescript)](https://roadmap.sh)
+
 ###
 
 <img align="right" height="150" src="https://github.com/david-franca.png"  />
