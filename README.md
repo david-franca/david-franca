@@ -58,4 +58,4 @@
 
 ###
 
-[![roadmap.sh](https://roadmap.sh/card/tall/684f408f368c556c65ee4ec4?variant=dark&roadmaps=full-stack%2Creact%2Cnodejs%2Ctypescript)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/684f408f368c556c65ee4ec4?variant=dark&roadmaps=javascript%2Cfull-stack%2Cprompt-engineering" alt="roadmap.sh"/></a>
